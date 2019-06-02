@@ -1,0 +1,31 @@
+/* This is the second Style.css done in the class */
+.box {
+    width: 100px;
+    height: 100px;
+}
+
+.one {
+    background-color: orange;
+    display: inline-block;
+    padding: 100px 50px 100px 50px;
+
+}
+.two {
+    background-color: red;
+    display: inline-block;
+    padding: 100px 50px 100px 50px;
+}
+.three {
+    background-color: green;
+    margin: 25px 25px;
+}
+.four {
+    background-color: black;
+    margin: 25px 25px;
+    display:inline-block;
+}
+.five {
+    background-color: yellow;
+    margin: 25px 25px;
+    display: inline-block;
+}

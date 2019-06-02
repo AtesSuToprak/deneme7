@@ -1,0 +1,83 @@
+* {
+     box-sizing: border-box;
+}
+
+body {
+  
+    background: url(https://png.pngtree.com/png-clipart/20190515/original/pngtree-fantasy-starry-sky-colorful-powder-texture-effect-cool-png-image_3817888.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+div {
+    background:#FFDA7F;
+}
+
+
+h1{
+    background:red;
+    color: rgb(46, 41, 41);
+    border-top: 3px green dashed; 
+    border-bottom: 3px black dashed;
+}
+
+p{
+    background: rgb(255, 0, 179);
+    color: rgb(0, 0, 0);
+    border-width:3px ;
+    border-color: black;
+    border-style: solid;
+    border-radius: 25em ;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    /*border-width: 3px;
+    border-color: black;
+    border-style: solid;*/
+}
+.pink {
+    background: pink;
+    border: 4px black solid;
+    /*margin: top right bottom left; 
+      margin: top right-left bottom ;
+      margin: top-bottom right-left;
+      margin: top-right-bottom-left;
+
+    */
+    margin: 60px 40px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+
+}
+
+.one {
+    background-color: peachpuff;
+    margin-left: 50px;
+}
+.two {
+    background-color: pink;
+    margin-left: 50px;
+}
+.three {
+    background-color: black;
+    display: inline-block;
+    margin-right: 20px;
+    
+}
+.four{
+    background-color: green;
+    display: inline-block;
+    margin-left: 20px;
+}
+.five {
+    background-color: aqua;
+    margin-left: 50px;
+    padding: 50px 50px;
+    display: inline-block;
+
+}
